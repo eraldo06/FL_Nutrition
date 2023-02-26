@@ -1,6 +1,6 @@
 import './cadastrar.css'
 import { useState } from 'react'
-import api from '../../api';
+import api from '../../apiC';
 
 
 function Cadastrar() {

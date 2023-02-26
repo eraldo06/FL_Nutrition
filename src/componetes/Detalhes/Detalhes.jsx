@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import api from "../../api";
+import api from "../../apiC";
 import './detalhes.css'
 
 
